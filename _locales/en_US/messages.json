@@ -1,0 +1,26 @@
+{
+    "language": {
+        "message": "Language",
+        "description": ""
+    },
+    "version": {
+        "message": "Version",
+        "description": ""
+    },
+    "download": {
+        "message": "Download",
+        "description": ""
+    },
+    "homepage": {
+        "message": "HomePage",
+        "description": ""
+    },
+    "description": {
+        "message": "",
+        "description": ""
+    },
+    "disclaimer": {
+        "message": "The download links are collected on the Internet, for learning and communication purposes only, and may not be used for any commercial purposes! Please delete within 24 hours! If a copyright dispute has nothing to do with the website, please be respectful! All materials are copyrighted by the original author, if you like or have the ability, please buy the genuine copy.",
+        "description": ""
+    }
+}

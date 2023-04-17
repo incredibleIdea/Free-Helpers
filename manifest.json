@@ -1,0 +1,7 @@
+{
+  "src/config.js": {
+    "file": "config.js",
+    "isEntry": true,
+    "src": "src/config.js"
+  }
+}
