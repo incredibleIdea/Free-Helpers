@@ -1,6 +1,6 @@
 const locales = {
-    zh: "./_locales/zh_CN/messages.json",
-    en: "./_locales/en_US/messages.json"
+    zh: "./locales/zh_CN/messages.json",
+    en: "./locales/en_US/messages.json"
 }
 
 const blender = [
