@@ -1,8 +1,3 @@
-const test = 1
-export {
-    test
-}
-
 const locales = {
     zh: "./_locales/zh_CN/messages.json",
     en: "./_locales/en_US/messages.json"
@@ -22,8 +17,3 @@ const blender = [
         homepage: "https://blendermarket.com/products/auto-eye"
     }
 ]
-
-export default {
-    locales,
-    blender
-}
