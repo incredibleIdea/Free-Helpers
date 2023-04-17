@@ -1,7 +1,14 @@
 {
-  "src/config.js": {
-    "file": "config.js",
+  "index.css": {
+    "file": "assets/index-1ff51367.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "css": [
+      "assets/index-1ff51367.css"
+    ],
+    "file": "assets/index-d3ecfa43.js",
     "isEntry": true,
-    "src": "src/config.js"
+    "src": "index.html"
   }
 }
